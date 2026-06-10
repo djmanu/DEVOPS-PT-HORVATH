@@ -6,6 +6,7 @@ Course: FHB MCCE Test Automation
 Assignment: Group Assignment - Test Strategy, Automation and CI/CD  
 System Under Test: Library Management System  
 Assigned domain: Group 6 - Reservations  
+Group members: Josefine Malek-Matous (`2510781010@hochschule-burgenland.at`), Phillip Fuhrmann (`2510781029@hochschule-burgenland.at`), Manuel Nussbaumer (`2510781027@hochschule-burgenland.at`)  
 Test repository purpose: Automated verification of the reservation domain, including API, business-rule, negative-path, and UI/E2E coverage.
 
 ## 1. Domain Overview
@@ -211,7 +212,7 @@ The pipeline publishes:
 - traces screenshots and videos for failed UI tests
 - the generated Word strategy document as an artifact
 
-Pipeline run URL for submission: add the first successful hosted GitHub Actions run URL here after pushing the repository.
+Successful pipeline run URL for submission: https://github.com/djmanu/DEVOPS-PT-HORVATH/actions/runs/27313467115
 
 ### 6.5 How the application is started in CI
 

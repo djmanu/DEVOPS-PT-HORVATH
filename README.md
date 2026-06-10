@@ -2,6 +2,8 @@
 
 Automated submission repository for the **FHB MCCE Test Automation** group assignment.
 
+Team members: Josefine Malek-Matous, Phillip Fuhrmann, Manuel Nussbaumer
+
 This repository covers **Group 6: Reservations** for the Library Management System SUT and includes:
 
 - a Playwright-based automated test suite
