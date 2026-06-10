@@ -1,0 +1,11 @@
+node_modules/
+.sut/
+playwright-report/
+test-results/
+Assignments/
+final/
+work/
+AboutMe_Nussbaumer_Manuel.md
+Defaults-ITN.md
+FH-Requirements.md
+scripts/generate-presentation-pptx.ps1

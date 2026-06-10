@@ -1,0 +1,22 @@
+{
+  "name": "group-6-reservations-test-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Group 6 reservations test automation suite for the FHB MCCE Library Management System assignment.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "setup:sut": "node scripts/setup-sut.js",
+    "build:docs": "node scripts/generate-test-strategy-docx.js",
+    "test": "playwright test",
+    "test:api": "playwright test tests/api tests/integration",
+    "test:ui": "playwright test tests/e2e",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "docx": "^9.5.1",
+    "wait-on": "^8.0.1"
+  }
+}
